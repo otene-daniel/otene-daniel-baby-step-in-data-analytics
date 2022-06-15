@@ -12,8 +12,10 @@ I got the data source from my tutor Mr. Oyinbooke ( Senior cloud advocate in Mic
 
 ----
 # Data Cleaning
-The data was to some extent clean so they was no need to clean it
+The data was transform and cleaned before we where giving access to it,  i just proceed to load the file in my Microsoft excel.
 
 
 ---
 # Findings and recommendation
+Focus more on your bullish channels to improve production
+Be innovative. Derive new ways of improving consumption of these goods at your weakest channel 
